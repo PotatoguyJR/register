@@ -1,0 +1,17 @@
+{
+    "description": "personal website to experiment with projects",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "cbsd",
+
+    "owner": {
+        "email": "hi123ih9009@gmail.com"
+    },
+
+    "record": {
+  "A": ["198.187.31.184"]
+}
+,
+
+    "proxied": false
+}
